@@ -16,7 +16,7 @@ https://files.catbox.moe/j68ejx.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/tp1p8DbQ/1736105796820.png", info 6
 https://files.catbox.moe/e8j5y5.mov
 #EXTINF:-1 group-title="Info"
-tvg-logo="https://i.ibb.co/5gWNFFQj/1736139719343.png", kunalal
+tvg-logo="https://i.ibb.co/5gWNFFQj/1736139719343.png", kulalala
 https://files.catbox.moe/ilhxq8.mp4
 
 #EXTINF:-1 group-title="ONNA Network" tvg-logo="https://i.ibb.co/NnWw1CjW/1741534250966.png", MBN+
