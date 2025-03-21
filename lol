@@ -14,7 +14,7 @@ https://files.catbox.moe/7nh5g9.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/675wHPJT/1735283914685.png", sigma
 https://files.catbox.moe/j68ejx.mp4
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/tp1p8DbQ/1736105796820.png", info 6
-https://files.catbox.moe/e8j5y5.mov
+https://files.catbox.moe/e8j5y5.mov 
 #EXTINF:-1 group-title="Info" tvg-logo="https://i.ibb.co/5gWNFFQj/1736139719343.png", kunalal
 https://files.catbox.moe/ilhxq8.mp4
 
